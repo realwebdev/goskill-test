@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	jobs "github.com/realwebdev/goskill-test/internal"
+	"github.com/realwebdev/goskill-test/internal/jobs"
 )
 
 func main() {
